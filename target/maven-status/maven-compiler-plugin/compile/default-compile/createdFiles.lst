@@ -1,0 +1,14 @@
+com/pluralsigt/service/orders/Orders_Service.class
+com/pluralsigt/schema/order/AccountType.class
+com/pluralsigt/cxfdemo/HelloWorld.class
+com/pluralsigt/schema/order/OrderInquiryType.class
+com/pluralsigt/schema/order/OrderStatusType.class
+com/pluralsigt/schema/order/BookType.class
+com/pluralsigt/cxfdemo/DefaultOrdersEndpoint.class
+com/pluralsigt/schema/order/OrderType.class
+com/pluralsigt/schema/order/ObjectFactory.class
+com/pluralsigt/cxfdemo/HelloWorldImpl.class
+com/pluralsigt/service/orders/Orders.class
+com/pluralsigt/schema/order/package-info.class
+com/pluralsigt/schema/order/OrderItemType.class
+com/pluralsigt/schema/order/OrderInquiryResponseType.class
